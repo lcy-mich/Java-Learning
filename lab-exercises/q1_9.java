@@ -1,3 +1,5 @@
+// not done
+
 public class q1_9 {
     public boolean isPalindrome(long value) {
         if (value < 10) return true;
